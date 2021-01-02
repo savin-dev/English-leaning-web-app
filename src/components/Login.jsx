@@ -2,13 +2,11 @@ import React, { Component } from 'react';
 import './Login/LoginStyle.css';
 
 export class Login extends Component {
-    constructor(props){
-        super(props);
-        this.state={
-        name : 'Savin',
-        girl : 'Oneli'
-        }    
-    }
+    // constructor(props){
+    //     super(props);
+    //     this.state={
+    //     }    
+    // }
 
     render() {
         return (
